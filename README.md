@@ -1,8 +1,2 @@
 # test
-テステスト
-iiiiiiiiii
-
-devテ
-
-
-hhhuhukajfdlsjf
+まーりく成功
